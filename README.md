@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/vroom_pshh" target="blank"><img src="https://img.shields.io/twitter/follow/vroom_pshh?logo=twitter&style=for-the-badge" alt="vroom_pshh" /></a> </p>
 
+- 🌱 I’m currently learning **Firebase Implementation, Kotlin & Compose**
+
 - 👨‍💻 All of my projects are available at [https://github.com/VroomPsshh](https://github.com/VroomPsshh)
+
+- 📝 I regularly write articles on [https://x.com/vroom_pshh](https://x.com/vroom_pshh)
 
 - 💬 Ask me about **kotlin, compose, XML, Room etc.**
 
