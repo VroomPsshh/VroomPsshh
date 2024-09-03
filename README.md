@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://x.com/vroom_pshh](https://x.com/vroom_pshh)
 
-- 💬 Ask me about **kotlin, compose, XML, Room etc.**
+- 💬 Ask me about **kotlin, compose, XML, Room, firebase etc.**
 
 - 📫 How to reach me **siddhantgauttam@gmail.com**
 
