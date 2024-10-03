@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vroom_pshh" target="blank"><img src="https://img.shields.io/twitter/follow/vroom_pshh?logo=twitter&style=for-the-badge" alt="vroom_pshh" /></a> </p>
 
-- 🌱 I’m currently learning **Firebase Implementation, Kotlin & Compose**
+- 🌱 I’m currently learning **Firebase Implementation, Testing in Android (JUnit..etc), Compose**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VroomPsshh](https://github.com/VroomPsshh)
 
